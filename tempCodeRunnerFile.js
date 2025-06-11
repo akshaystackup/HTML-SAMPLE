@@ -1,1 +1,15 @@
-let Sum =0;
+
+// Example usage:
+printDiamond(5);
+/*
+Output:
+--- Diamond ---
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+ * * * *
+  * * *
+   * *
+    *

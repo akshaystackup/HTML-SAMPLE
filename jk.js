@@ -94,8 +94,84 @@
 // console.log(Sum);
 // }
 
-let n= 5 ;
-for(let i=1;i<=n;i++){
-    let str ="* * * * *";
-    console.log(str);
-}
+// let n= 5 ;
+// for(let i=1;i<=n;i++){
+//     let str ="* * * * *";
+//     console.log(str
+
+//     );
+// }
+    // let n=5;
+    // for (let i=n;i>=1;i--){
+    //     let spaces= " ".repeat(n-i);
+    //     let stars= "*".repeat(2*i-1);
+    //     console.log(spaces+stars);
+    // }
+    
+// let n=5;
+// for(let i=1;i<=n;i++){
+//     let row ="";
+//     for (let j=1;j<=i;j++){
+//         row+=String.fromCharCode(64+j);
+//     }
+//     console.log(row);
+// }
+// let numbers =[10,11,12,13,14,15,16];
+// for(let i=numbers.length-1;i>=0;i--){
+//     console.log(numbers[i]);
+// }
+// let numbers=[8,10,11,12,14,15,16];
+// let elementsToFind=8;
+// let frequency=0;
+// for (let i=0;i<numbers.length;i++){
+//     if (numbers[i]===elementsToFind){
+//         frequency++;
+//     }
+  
+ 
+// }
+//  console.log(frequency);
+// let n=5;
+// for (let i=n;i>=1;i--){
+//     let spaces= " " .repeat(n-i);
+//     let stars= "*".repeat(2*i-1);
+//     console.log(spaces+stars);
+// }
+
+
+// let n=5;
+// for(let i=1;i<=n;i++){
+//     let spaces=" ".repeat(n-i) ;
+//     let stars="* ".repeat(i);
+//     console.log(spaces+stars);
+// }
+// for(let i=n;i>=1;i--){
+//     let spaces=" ".repeat(n-i);
+//     let stars = "* ".repeat(i);
+//     console.log(spaces+stars); 
+// }
+// let n = 5;
+// for (let i = 1; i <= n; i++) {
+//     let row = "";
+//     for (let j = 1; j <= n; j++) {
+//         if (i === 1 || i === n || j === 1 || j === n) {
+//             row += "* ";
+//         } else {
+//             row += "  ";
+//         }
+//     }
+//     console.log(row);
+// }
+
+// let n=5;
+// for (let i=1;i<=n;i++){
+//     let row ="";
+//     for (let j=1;j<=n;j++ ){
+//         if(i===1 ||i===n || j===1 || j===n){
+//             row+="* ";
+//         }else{
+//             row+="  "
+//         }
+//     }
+//     console.log(row);
+// }
